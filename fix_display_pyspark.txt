@@ -1,0 +1,3 @@
+add this into your script python
+from IPython.core.display import HTML
+display(HTML("<style>pre { white-space: pre !important; }</style>))
